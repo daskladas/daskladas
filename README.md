@@ -33,5 +33,3 @@ Looking for someone to contribute to Nix-based projects, pentest together, or ex
 
 [![Matrix](https://img.shields.io/badge/Matrix-2d4a80?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@daskladas:matrix.org)
 [![Mastodon](https://img.shields.io/badge/Mastodon-2d4a80?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@daskladas)
-
-*The more I understand technology, the less I trust it.*
