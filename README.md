@@ -23,6 +23,14 @@ Terminal UI that consolidates generations management, package search, rebuild mo
 
 ---
 
+## Also on my GitHub
+
+If you're into homelabs or NixOS on non-standard hardware, you might find these interesting:
+
+- **[nasdots](https://github.com/daskladas/nasdots)** — My NAS dotfiles. Full NixOS config for a Ugreen DXP4800 Plus with RAID5, NFS, fan control via out-of-tree kernel module, and a custom SSH dashboard. Not a tool, just my actual infrastructure.
+
+---
+
 ## Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daskladas&bg_color=0d1117&color=7EBAE4&line=5277C3&point=7EBAE4&area=true&area_color=5277C3&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
