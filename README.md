@@ -28,7 +28,7 @@ Terminal UI that consolidates generations management, package search, rebuild mo
 If you're into homelabs or NixOS on non-standard hardware, you might find these interesting:
 
 - **[nasdots](https://github.com/daskladas/nasdots)** — My NAS dotfiles. Full NixOS config for a Ugreen DXP4800 Plus with RAID5, NFS, fan control via out-of-tree kernel module, and a custom SSH dashboard. Not a tool, just my actual infrastructure.
-
+- **[lapdots](https://github.com/daskladas/lapdots)** — My laptop dotfiles. NixOS flake config for a ThinkPad T14 Gen 2a with Hyprland, Gruvbox theming via Stylix, 150+ pentesting tools, and a security-hardened stack (Firejail, USBGuard, ClamAV, AIDE).
 ---
 
 ## Activity
