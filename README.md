@@ -1,43 +1,19 @@
-# Hey, I'm Eric 👋
+# Eric Heinemann
 
-*German Sysadmin · NixOS Enthusiast · Pentester*
+Systems Engineer — NixOS, Infrastructure, Security.
 
-Maintain network and server infrastructure at a government agency by day, develop NixOS tools and solve CTF challenges by night. Beyond that, deeply into privacy, automation, LLMs, and anything that gives me more control over my own stack.
+I work in German public sector IT, where I'm responsible for the networks, firewalls, and server infrastructure across multiple locations — including automation and monitoring across that environment. On the side, I work part-time at [Applicative Systems](https://applicative.systems), where I help run NixOS-based infrastructure — most recently I rolled out a backup solution across several servers and wrote a custom wrapper around it.
 
-**Currently learning:**
-
-![NixOS](https://img.shields.io/badge/NixOS-2d4a80?style=for-the-badge&logo=nixos&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-2d4a80?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2d4a80?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-2d4a80?style=for-the-badge&logo=gnubash&logoColor=white)
-
----
+I've been running [NixOS](https://nixos.org) on pretty much everything for the past two years and try to keep my entire setup open source. Most of my free time goes into self-hosting, tinkering with my homelab, and figuring out how to make infrastructure more reproducible and secure. I mostly write Nix and Bash, and I'm currently learning Python.
 
 ## Projects
 
-### [nixmate](https://github.com/daskladas/nixmate) — All your NixOS tools in one TUI
+**[nixmate](https://github.com/daskladas/nixmate)** — A Rust TUI for managing NixOS. Generations, rebuilds, services, and system errors in one place. Built as an experiment with AI-assisted coding; landed in nixpkgs and grew a small user base, though I'm not actively developing it further.
 
-Terminal UI that consolidates generations management, package search, rebuild monitoring, error translation, and storage cleanup into a single keyboard-driven interface. Works locally and over SSH. 10 modules, 13 themes, EN/DE.
+**[nasdots](https://github.com/daskladas/nasdots)** — My NixOS config for the Ugreen DXP4800 Plus. RAID5 with btrfs, NFS, SMART monitoring, fan control, and some basic hardening.
 
-> More projects are in the works — stay tuned.
-
----
-
-## Also on my GitHub
-
-If you're into homelabs or NixOS on non-standard hardware, you might find these interesting:
-
-- **[nasdots](https://github.com/daskladas/nasdots)** — My NAS dotfiles. Full NixOS config for a Ugreen DXP4800 Plus with RAID5, NFS, fan control via out-of-tree kernel module, and a custom SSH dashboard. Not a tool, just my actual infrastructure.
-- **[lapdots](https://github.com/daskladas/lapdots)** — My laptop dotfiles. NixOS flake config for a ThinkPad T14 Gen 2a with Hyprland, Gruvbox theming via Stylix, 150+ pentesting tools, and a security-hardened stack (Firejail, USBGuard, ClamAV, AIDE).
----
-
-## Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daskladas&bg_color=0d1117&color=7EBAE4&line=5277C3&point=7EBAE4&area=true&area_color=5277C3&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**[lapdots](https://github.com/daskladas/lapdots)** — NixOS flake config for my ThinkPad T14. Hyprland, Gruvbox, hardened kernel, firejail, and a bunch of security tools I like to play around with.
 
 ---
 
-Looking for someone to contribute to Nix-based projects, pentest together, or exchange homelab ideas?
-
-[![Matrix](https://img.shields.io/badge/Matrix-2d4a80?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@daskladas:matrix.org)
-[![Mastodon](https://img.shields.io/badge/Mastodon-2d4a80?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@daskladas)
+More at **[daskladas.de](https://daskladas.de)** — blog, longer write-ups, contact.
